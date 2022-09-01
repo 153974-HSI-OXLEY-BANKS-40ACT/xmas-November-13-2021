@@ -1,6 +1,46 @@
 # xmas-November-13-2021
  This was also sent to institutional sales at Morgan Stanley
 
+### director of the IAB SYSTEM.
+TIFFANY DECKER
+TD2107@columbia.edu
+
+On 8/31/2022 7:41 PM, B D2022 wrote:
+> USC 18 TITLE 18- SECTION 1512 - PREVENTING COMMUNICATION TO A LAW ENFORCEMENT OFFICER OR JUDGE.txt
+> > https://support.nysba.org/attachments/token/sWoZTvp3jCzQBDpiHj8pRGrhV/?name=NOTICE+TO+SECURITIES+AND+EXCHANGE+-+NOVEMBER+13TH+2021.png
+>
+>
+
+-------- Forwarded Message --------
+Subject: 	88.955353
+Date: 	Mon, 8 Aug 2022 17:14:34 +0000 (UTC)
+From: 	Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: 	bo.dincer@yahoo.com <bo.dincer@yahoo.com>
+To: 	ms60710444266@yahoo.com <ms60710444266@yahoo.com>, risc@ic.fbi.gov <risc@ic.fbi.gov>, helpdesk@leo.gov <helpdesk@leo.gov>
+CC: 	dcarter@mtagservices.com <dcarter@mtagservices.com>
+
+
+/S/ BO DINCER.
+MAC. 646-256-3609
+TMO. 917-378-3467
+
+Under USC 18.225.each person:
+
+'...imprisoned for a term of not less than 10 years and which may be life."
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/blob/BSCPGROUPHOLDINGSLLC-EMAIL-DOCKETS/ms-pwc-dicker
+
+Those papers confer a violation of the Sarbanes-Oxley 2002 Rev.
+-- questions?
+
+I did email the police and YES I do press charges, for invasion of privacy as well was unconsented as annexed "cease and desist".
+
+https://github.com/BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV/find/8209-filed
+
+/S/ BO DINCER
+U⁷Unfortunately 
+/S/ BO DINCER 852,029,489.u38 
+
 
 i have no idea what they are thinking over there in the stonehearst dept/ Jae, but you need to stop them before they burn down another athetic department, or a chemistry lab.
 
