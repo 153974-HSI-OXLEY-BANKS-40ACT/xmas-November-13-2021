@@ -1,0 +1,210 @@
+From - Tue Aug 30 19:53:14 2022
+X-Account-Key: account1
+X-UIDL: AABDO90mz8S0Yw5VUQx3aN1Pig4
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Tue, 30 Aug 2022 18:22:09 +0000
+Return-Path: <TAIMOOR.AHMAD@nypd.org>
+X-Originating-Ip: [40.107.91.113]
+Received-SPF: pass (domain of nypd.org designates 40.107.91.113 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@nypd.org header.s=selector2;
+ spf=pass smtp.mailfrom=nypd.org;
+ dmarc=pass(p=QUARANTINE) header.from=nypd.org;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 30 Aug 2022 18:22:09 +0000
+X-YMailAVSC: _zqAQXY3bBtbzn4QJbglF3EnKb7ZDvSxN7UXQdqEVI5Nd1q
+ tuxIYrCsmQH0IVqDVjT1QmByguuw0FA8bOTmMPFcMiftX8myRsXqXGwdvqYU
+ f2RgN5oM7ri.A2nfEpOvtvjSrRh0JjfK6URMyfHOaK9oB5u11WB02QpXQrXD
+ cni5fjjfILbr4J8F.h06aR45B_N7K1G1gnXMahXMAa8icNksBjMXilVUtVMn
+ 6LZqEwOFhMbdqv0ip5FtTRFPZuv1LwI39J0ua3t5p9rMzx77bJkRs5wAP5zz
+ 3sNJ44IqhMz.xQsUWm2nL0zqHjDopj7RFvD7DXwiqqE8krE_eHThRiDlDh64
+ Iw1dZHIvniVTiBa02BwoWFn.WBPE0j6aTl9aTPic2BBlxUgadjX71W1KRTjb
+ yAjzBeX2eXLduzzl7gyPpiw.9YFUYVuReHoEFhUXLqixpvK3eA_rPF1Y_Wu6
+ V8DITqlF.UfKMIVc2bDy.R0GPMFtL2C5seTW6c2RZqdwAwrmR6DM2wxOlWa1
+ TKd5Cra.rUaHoIlNnoUvNXZio2aCZlH_YGoRWSJFl2gtteBFzGbSx8Nhuc1E
+ PKqPUFg3tacy19a0hbixy0m1p_7vOy35fTYhE3FJilkFiz3I1mpvcDQu9OXw
+ 2zqD.BrX9t1rtHB8lpQe6iM33sxPWTZLUDA.ci2EsZuqTM6N.AU6pmHUHQnJ
+ AX6T0EocA4.NpQJUhCFtuDvA0Dk1iv5tWwW9ExagLqNAqR0B6ucDsAv4nRaJ
+ aeoa_UXkczFxP3AVspJJ77iMEWigbfwkYIaRy3tOGcRPSCNqdydII19QS63n
+ AfuSrYcLX96v.pp.pmXsnAvVUqnNPbtMh9PR0oPMVlIpljyQNZfiHPKNKzq5
+ rFK.ha49c7NWBC9ZiAT.uGJouNE54qtblIlasGHdiXzgyDUlStV.czd5fKYu
+ _39eFYFtvccp6e9q2hcBYg2DoZKaeo.3JZ9UCr5_PFW62kD55.3BZnekYuoO
+ u2jmFBgiq1.V12MqaFIMEjf8rT7WcccUUvovXXBJcav4g5oYSHH0.d9Zmas7
+ 8oYrZVmOMb9_XuzDfNK4uk3x9S.HZpRwv2mTUHvvkElEfyuIgU0F0hu4dAGh
+ b39GPVmkRZa.Ujv9PwAAK6OnxiBfEwpQ-
+X-YMailISG: ly1t5wUWLDsTCtiawUAauU53PwwQoaH4Ngx1QvZdrWL8kmkj
+ Vfd16gIEjqjyWG__uBwy1c3xXZQLDUEwaUQ2uRkKlDuMRqDOvrtrshTRzZPp
+ ckCBffcMLfsWSnbiszekb5zZZgDM.kUEFmS1_wejTV6gqy52S4cLYgcX4FJj
+ IfTB1smV.wxoKZmXdnMoAygpTlfTn5ZxOe_z5t9cTIjrZdoYUrl7j75.vQ5r
+ VghcupdQf06yZbobI3QYSy2mM0KeltwOyQaugIwrz9VtvlaEnAQbCWh16AWE
+ p497gwxDanJnexjGSOVowF1QXMmWMOeyWKWX8_pojmO.Lvx4N01tm0BYt7Sf
+ VMjsp82Tv_a1gCJfblNl1x5khnU8fQC.3XIFLIlHSOD.MemBWRPSz3VB.tFI
+ YhUwczvuXOg7bLJtwWIyGLw8bUrEFnjc3kT_B6AiuUeDjYK1N3NrSQP0xrPa
+ TiNMC2i1QDpUp8ClG.QTukoO9pQKD02Jhh9SpsIVLsH8nnSIlCbVWYVbdjLC
+ YH6NOFUiV23kRFCUQvrAMgjLywShK9UUG34MbMTuvWpaZUOhiSjGS3deZXNS
+ NvsvbgLi1rAE7EKVWX_NWrQUtlaTLejlYgWHnMwCi9MGx_qNKe.vQ541y.Zg
+ ohiExvucFQuKV8iZfAPLKjY4l_MYS1X_E1XV8_IO3CoxxgrVChIAK8ZMR09e
+ 5fAUS.jmyvX6TUL.zsoktll9U.uAo6aDweI5nwzp4daJVMG07HX2ztj00kdR
+ ZgJWd6RJvm.h9fJl_9vqMFVwJ9G7CMiC9hsBFFjHsU6.ZK0g6xD9Vk_zKmGD
+ tqTM17dLALGbNA.FSf1AaRm1PPsnpWQI1Lh0zQYyEAP4_SPVlCDB3S.LrTJ3
+ MUNb_WPVpfjPkFUHIBL80iPB06iYo0J7zwdyan1hrc4iSspEvFsdPr4wMxqB
+ Jb.OBDSMbgryZLMueCoQyHSQJbxPlYgTG9Dxk_qxfsvvZCXsND0MBjHbP18P
+ kDgHLb.NcAgbLb.I.me14QNfTwd3XGbADxUCi9nVKwweGXaUCtw8uSz26urK
+ FZEcNkB1_SGGdFZpz8Pu6L06VV15O6jv2GgxbNubcf3gOQQQ0j_3Ls5xt9a8
+ 52BiFphIQtmY7NKovSAqLSWpvrm0MuCuB4.EEF2uOlrSRi0Eyrhmu8t_p2DZ
+ zE1uufpjMNVA6iIBhnE-
+Received: from 40.107.91.113 (EHLO GCC02-DM3-obe.outbound.protection.outlook.com)
+ by 10.253.234.154 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 30 Aug 2022 18:22:09 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=g73dr8H6T2YprOZ2Bmva/9KK479BoXkUBR+nUKwW0jhA8sNXW9VyChuO9l/VwBF80NfnWILQ1SpcfAbeJkg/Um5maCmnuu0xmhV9cJKhpdtzBt2Xl9CTCDufFYCBjx3gdzbCujtBFNyM8J1C8ZEG90LRjCtyat9m156Pgdte3XJja8Iqn8brZ2rjVjCt1Feq91lqLFAMVfktzUFUT2LWQ6uoGn1XqN1Q8WHbkYkAu4YV5IyD0qeDF9RUs01pPRYOz0/7upPZRoTO0gBWSNR2u+XxarUI3xlXagCt9jNqosGhfao3Ihc3M1LdDrteDLgz3F7hXr1eKC/nb0nvxDTfrw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=P49u/3+2KiAM9fQf5mIV21WsWqyNTDG8t/CZgUSDyfY=;
+ b=Nxh5vFmxeRcWj80Js19INT1iI8XEZg/P/pZLjPqWFtUhBocxaXnqsO//GaUeZ6V5Zap02yLPtzcNzcft7ZsYGydWBt67+GNfaaf6HOzrCvupXZnZIsL4AOufiOloqsLWsfV7UiTAdszM0oH5vC6/5NClIQAltOFpBw86y68zpQ3Ne3Qv4kOWO+3MCXcYBlCEKHpakRXYDVqUomDHI/ts/Hl5EQm0g/UsrsnAwmsk0NXz2lZ8jsl+ABy31txKxpeutZwV6ncPZs0cn2u7YHybTpJkj+hVsVekQG6futiVGg9H7bfHGWuJ+BTYKV31UH+DDGitaZuU45TxlVQYM0d/Zw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nypd.org; dmarc=pass action=none header.from=nypd.org;
+ dkim=pass header.d=nypd.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.org; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=P49u/3+2KiAM9fQf5mIV21WsWqyNTDG8t/CZgUSDyfY=;
+ b=zNNSvJcRNG/dAW7cXrsT6VbWGFqFrh7ZKUGoGv9hp8B+UlPjfAgUQefb366TBmBEgYw5bCMIq2tfhRbX834kcPtUSAic2F1/8THH8nxRs1ajFheZKaEUfJGu5Plrnc/T/GIzkMpZNcZx3boVrRRlf8For3lVPxVITJTSufzD/0k=
+Received: from SA0PR09MB6812.namprd09.prod.outlook.com (2603:10b6:806:75::21)
+ by BY3PR09MB8082.namprd09.prod.outlook.com (2603:10b6:a03:343::5) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5566.15; Tue, 30 Aug
+ 2022 18:22:06 +0000
+Received: from SA0PR09MB6812.namprd09.prod.outlook.com
+ ([fe80::f1ae:570c:e5ab:d758]) by SA0PR09MB6812.namprd09.prod.outlook.com
+ ([fe80::f1ae:570c:e5ab:d758%7]) with mapi id 15.20.5566.021; Tue, 30 Aug 2022
+ 18:22:06 +0000
+From: "AHMAD, TAIMOOR" <TAIMOOR.AHMAD@nypd.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Re: Fwd: TCR 2 FILED: State Farm Associates Funds Trusts >>
+ STATE FARM VP MANAGEMENT CORP. || (STATE FARM REALTY MORGAGE LLC).
+Thread-Topic: Fwd: TCR 2 FILED: State Farm Associates Funds Trusts >> STATE
+ FARM VP MANAGEMENT CORP. || (STATE FARM REALTY MORGAGE LLC).
+Thread-Index: AQHYusXVIfJmrgjTykiVtdiZ6V45QQ==
+Date: Tue, 30 Aug 2022 18:22:06 +0000
+Message-ID: <b4f55b7d71794e918914f3e2c3c9f4cf@nypd.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: cd27e8c6-faf9-44b4-0a13-08da8ab48b46
+x-ms-traffictypediagnostic: BY3PR09MB8082:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 2JRPiO4+y+3OqVN7+CoTObqV+cLfqtKOw0Q3P10DwU7szzrX54GDR+cBrsIzpPvtN3g+V44E8u4/k2sfA+yp1wreoOXJqIIvt4ivqNM2kVY52Abnt6f68uk4S4vv7gz0ktQPn7GRYSPUqB0JuhlR8AG/5PE4UyzzeSRLkip6HURtRUBlbRDmzEJo/FmELVxJesmBjiQbvwM9U/ULw7CI89Bij5Q8KDh+ImdImIhZ1FbyyHOYxddeThiyM/BuDyu5aep0MwovTkk+8bHHDC1Hpk2KpAv5hhT5AFshgKuYxxVo+psdSoEqj2hl2qV3/1+L2W7BhMMIytCchmbgYPdIo3vEbc09mBuGJXgD3DTyBzJMLyYMDGn89g6yEf8KFuOJML0KhBgnD3v9dMj5bu3q1FLZNECcP8Ou/rNIyYzBTONd1rnYcpebYd+Z3+JIVmAn
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA0PR09MB6812.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(8676002)(6512007)(66446008)(6486002)(64756008)(66556008)(498600001)(66476007)(66946007)(8936002)(108616005)(2906002)(88996005)(24736004)(186003)(6506007)(86362001)(82960400001)(621065003)(36756003)(4270600006)(6916009)(2616005)(122000001)(71200400001)(73894004);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?Kq+H4853Ts9hmwPkM+whUUyaf1q6/0Sp3TKsUKlKLwN50JX2aIsMDIf0+25J?=
+ =?us-ascii?Q?+FRMQigU7UTJsgXLrj5fSsG1MlILWkT5oBak2o5DwMZMKpFf7hUrXtWstP2j?=
+ =?us-ascii?Q?tc3KudixI/c5bKw5nTq9pRsCXwWxZhuGolzZ3k1UNf4EejvEGrMQIPK4mO0R?=
+ =?us-ascii?Q?yEgAfCeTGnFMKyoBGhWM8ZpihVr8e3OhclJbDTLZl82FA2CqYvAgBrDY/fEJ?=
+ =?us-ascii?Q?nBJPYmz/iKFDZjNMmVr2aOo9o3MTsdpGxRs++AIJ8Ms91KdiezzUCVuSQNcY?=
+ =?us-ascii?Q?V+UlTVTCWIVjoEllWli8SGVUgB5Vl8M1M5Xl6RmIbxnSvDGS/tL/fLHIpiYf?=
+ =?us-ascii?Q?sZwf3LAiH0egfzshmOVPy+UYK2Abo/n6VkTT+6guZRXoEhUVw6at7eZA+KHX?=
+ =?us-ascii?Q?/UM/mLXXTLw2ZgF+QqI+AxjfYxDRKB09oUNScSTQAPH/cM+qjPssb9zm42Ti?=
+ =?us-ascii?Q?zbe22rjxbUnWHk8vSmDCbMe+Ge2hSxCN14BFfLdkT635HNmN4WotgmrZYbUM?=
+ =?us-ascii?Q?DngYrSiKZJ+uu+U8H23b+Uf9S1uYKeaqzgAp1ptOxg1jBA/gcXTqqlES7uqY?=
+ =?us-ascii?Q?Q5EhE0RSH9MhszSIKS6ZzodOxpIAp9ZwaUxkfYkWW/u8uz7d+RgAklXSxMYV?=
+ =?us-ascii?Q?Eqw7ZPm+zEH3TG6joGbbOp26MAqdU7126VXDp4LsZUpt3dzIyo70D2QL7W48?=
+ =?us-ascii?Q?Kj6urevQy40yylkVC2Xnca7isHGGk8SKHbSWEkZzR194xAJ4XydatYpxFg53?=
+ =?us-ascii?Q?nP8HxLPusVx44s1DNzYoU2w/zUjNVj8ImiRZC0xuXMlsZQr4WZBhoH0LrO2n?=
+ =?us-ascii?Q?sn3rWluOoR1YITTZ0gFsWVi4+ITiNujG0T9+H41dpnGIu4F4mQ7s45629lbd?=
+ =?us-ascii?Q?h+ZrHTZbmGnREzxcxvg9JuC8W/qH18K6ZyGTUxWBPbcLY5NDeDxcajqhUsPE?=
+ =?us-ascii?Q?cDO149mAw4SK4Sq1cjUyweqIVRNkOHHmHgHeXO9S+DHArIx2GB2oPxARXh4u?=
+ =?us-ascii?Q?YzjyEcMYqmtaMJNC4r9AJnCXN6/dX4xJmykSEOmEp6KK3rUqbfCsSPMuW97Z?=
+ =?us-ascii?Q?hxxpJEEsvm3X6QL37Gg9qCImp1Vc8aJ3eZGF15iDM3QsqcEBsF4mRW38+umm?=
+ =?us-ascii?Q?uYgCIcb6Uq6/mUJvNXlP/wgANFWMHcLrhuUxk+T9olkGF7zenp1D4nD+THfq?=
+ =?us-ascii?Q?0usXDYNnLsXf/yIMDJe8zfEDU9zzyPMdX7SZNRDkW1/cWWaAtyF/G3C6rZzb?=
+ =?us-ascii?Q?U1yt5QtqLZERBV5tjG01DjUvJRO/ZvXLrU7vcTwzzGHf3SwzCFCPbX/wpPe5?=
+ =?us-ascii?Q?KeBuWeGZXAq2p+4GlAtXa+3uWqUevx78MRegLh2FcVMgFq2Mo5dwnv8557Mb?=
+ =?us-ascii?Q?GDXVCYc3+5FrkqRtOYLAlf1VyH3LdxJdyZN08DV2DrnpYe22Z3HflF8gJ8Y8?=
+ =?us-ascii?Q?/qtBUOrSFACWp6WDZuDHRec+Q5d3bLGo?=
+Content-Type: multipart/report;
+	boundary="_000_b4f55b7d71794e918914f3e2c3c9f4cfnypdorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nypd.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA0PR09MB6812.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: cd27e8c6-faf9-44b4-0a13-08da8ab48b46
+X-MS-Exchange-CrossTenant-originalarrivaltime: 30 Aug 2022 18:22:06.1090
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2b9f57eb-78d1-46fb-be83-a2afdd7c6043
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY3PR09MB8082
+Content-Length: 2091
+
+--_000_b4f55b7d71794e918914f3e2c3c9f4cfnypdorg_
+Content-Type: multipart/alternative;
+	boundary="_002_b4f55b7d71794e918914f3e2c3c9f4cfnypdorg_"
+
+--_002_b4f55b7d71794e918914f3e2c3c9f4cfnypdorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: AHMAD, TAIMOOR
+   Subject: Re: Fwd: TCR 2 FILED: State Farm Associates Funds Trusts >> STA=
+TE FARM VP MANAGEMENT CORP. || (STATE FARM REALTY MORGAGE LLC).
+   Sent: Sunday, August 28, 2022 6:02:30 AM (UTC-05:00) Eastern Time (US & =
+Canada)
+
+ was read on Tuesday, August 30, 2022 2:22:06 PM (UTC-05:00) Eastern Time (=
+US & Canada).
+
+--_002_b4f55b7d71794e918914f3e2c3c9f4cfnypdorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: AHMAD, TAIMOOR<br>
+&nbsp;&nbsp; Subject: Re: Fwd: TCR 2 FILED: State Farm Associates Funds Tru=
+sts &gt;&gt; STATE FARM VP MANAGEMENT CORP. || (STATE FARM REALTY MORGAGE L=
+LC).<br>
+&nbsp;&nbsp; Sent: Sunday, August 28, 2022 6:02:30 AM (UTC-05:00) Eastern T=
+ime (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, August 30, 2022 2:22:06 PM (UTC-05:00) Eastern T=
+ime (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_b4f55b7d71794e918914f3e2c3c9f4cfnypdorg_--
+
+--_000_b4f55b7d71794e918914f3e2c3c9f4cfnypdorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; TAIMOOR.AHMAD@nypd.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: CM7GqJI6GUOhEAfS0TgEFQ==
+Original-Message-ID: <d42d854a-4ddc-129f-a17e-7457b7e9c2ea@yahoo.com>
+X-Display-Name: AHMAD, TAIMOOR
+
+
+--_000_b4f55b7d71794e918914f3e2c3c9f4cfnypdorg_--

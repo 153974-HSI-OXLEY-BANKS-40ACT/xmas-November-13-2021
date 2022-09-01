@@ -1,0 +1,255 @@
+From - Wed Aug 31 18:53:50 2022
+X-Account-Key: account1
+X-UIDL: AKXXz5Vyy/bMYw/NbQ0bePMBn3U
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.204
+ by atlas303.free.mail.bf1.yahoo.com with HTTPS; Wed, 31 Aug 2022 21:06:53 +0000
+Return-Path: <communityaffairs@occ.treas.gov>
+X-Originating-Ip: [166.123.212.215]
+Received-SPF: pass (domain of occ.treas.gov designates 166.123.212.215 as permitted sender)
+Authentication-Results: atlas303.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@occ.treas.gov header.s=ZIXVPM16ab5adfb7f;
+ dkim=perm_fail header.i=@occ.treas.gov header.s=selector2;
+ spf=pass smtp.mailfrom=occ.treas.gov;
+ dmarc=pass(p=REJECT) header.from=occ.treas.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 31 Aug 2022 21:06:53 +0000
+X-YMailAVSC: tCbhlbM3bBv4iuDYDmZrkgffZTfcmptNjOjDIoyi_lxdD2x
+ FZZ3nsCHOiwzBf2mH7mSTk9BvHO_euYC7pquMRzVwLWr6iT0Vt6._tc5mWZB
+ CNYoPrzVdYYtUbImGDaKgJKGDNoHbYRqefTSZiM3xJF0b4LvJL3CLptz3X9G
+ Ph5hi9fwqbaa.hSA7h8F5KYZV3FAVP0O11ct3Z9t4C7J6zkedZiv4wtK0MKb
+ qT7hFTdL7CYlZVXSOJbvUCDS2Fz9W2Ue6P9P..c4vbDNYz5tLFnkHpF_ZWBN
+ mVtN2MiSesyR0uivUE.MRjP9QaLFc.WNXJRHmo1NNIvcjAVxmE2F1jUcY8CH
+ INe02bMPf5UWJ3pzvPD2qoH8IcF7tBXAIaW9xhsspypNKxSPJ73xjaKjgL2C
+ 2qzSVXXToD8XcRjWmZTO.U4zj1b9xPahv8H_a6N8lZJY7AnBaQ.118mkRZew
+ iBeOQesj4PmhwYvi8ceyErJ87Zg0NbMqiForxAqnIy7Ih4_UrT6mfpfqU6cB
+ bGmQrr9BOX5enJ6L48d6EGb0Fy5cZoqI0NFHSsFZoLoYw8JOE82z4OieWzWO
+ 2mWvKohIm52Y90Smk_UhMd_.Z28mVXywB.8z6c88JkmDCOt7vKU7JfpDaxc4
+ iFWRbqm3gOBJ4wyZzqTrOW_p9ewpW3RWQQTdpgYASX8DKL8onmcGj3EosuAJ
+ _8A.SHVMj5gE49r7ypj6_vCmwZDJp5qWLYam8RE_y9U8UWV7ePgyDeLqB6mf
+ 3MXfGaaZgtLOzjd26GBImMlLggA7h8KYkWbDiZg3KhbrDJv99920j9iIGF_o
+ ehXh0sfkOB130eMkZRzlXR5Ll_HINuJiWEjwLOjVFKlxfn0KqHxjCoPTd2I4
+ MhnAMaTSae9NeFnXNqwHMIeLFE7ucZPpOGWHqBuonkFm3MAWUcgL3kA5upbA
+ N_k0MkGlrsqmbfwBGRpbZt9QL9AcDynBxwIhw2eO3nAx9vKQV8HsWEcClAzc
+ Upzutf8z9aqGgTYXgcEkJvdAege3rWY4saBpPk6Yg4b7eITiMI.esrgGO2Xr
+ 6AuzA.8vM.obZH7ylJiS2jjR4pXv4ikJRZB7oNMGn1tPIPGRRT43VXSdmSlD
+ N1MQgXzCJMPRd21uxu80L8cs6grx4pboMZ0PUgBKmphNcqmn4DQexVNKvaG4
+ PoO1I5iUA
+X-YMailISG: JOSMWjIWLDsg1h_1vCPs1kgC.vnJV8xUDd_P_sj_5gEwg_sy
+ zSi2XlHNKju89uIai._Zyqtt6UoQ.A49LspjwuJzYa7okni4pKb60fw3gwWQ
+ MhX9JIfCNGAmbfWwxga3ZK98DTXwsZhcANLFOu6dmXk.uVqS6AcART56NyNl
+ FhqPjHJoD9yhmPqAnPuTy3un57tENHX2CsO5Vagg8UiZ8ER0mUPN08_TUZu0
+ AUIGbF30_wPI7OX3UbBCE4gykYirV1YBc8l8WALWAdLo0TS.8gzeELjEczUE
+ lJxpV5cbt.x8RCbYClpGZqImaeb9MjifFm3mXxhhgzixGLv.TdGmH_Tkztgq
+ gvAT46e4Gp_VZ6XqFUfZ43_PV8X46nH9L88qyFerhSLK1e209o4mdD0jvsX_
+ UHIJ6w2UYicEWXtJE9uQlgDGbKnSskbzHNdjpc9bc.i3cEt2Lh3_6XEWXaqm
+ Z5sPLx8nHt_VOBEJca1VgjMr3pTE1cPzycDLz782WkqUVn7BhGwnOCoe.vWa
+ .12j7A138OIHL7GyrrQjawND1CgNkjUlx7bBD2QAfGuLJXNMXPg6ILEgRPIn
+ b4pCGFRpNxULhUcuVWHffVSdP.Yn5m7Q4SsrLfUbGZyvoXrs6QNlFFLpb.Oz
+ Oerd21saG5aC.c9KkUIbKTq6JFpu6iNDpapRWyPpraOKIxWos93yrbcV_EDw
+ fbLxthiAmnB.0t6cB7OJuP4uGGkeyi19exCrMiGZN1vvGicyDassK9Q29U1t
+ nWbuPqSeMuQSEn_VqdtIz1E.urq4.18Lr4l9OQqLVOREUA9jeGDqVSlPhT3L
+ xuGh9BZsX8wj1BoNibFY4G3ks50h9Z4LQsAZycJb_IWWXWISGRGcd4Jo58Zv
+ mYlHQneDKrEwCjS20I8p9BNEROF37V8tgTMjac2Vyg4eEDFFcNo5puRimbuj
+ Iy3HcEHOQ_5J4AJHz11NFy5clcChVVxA5hI7chtNrR_nMOG0zSqY0G1BwGQW
+ REa3PhXdHX2xCcC7spi.oe25.jjfBuYuYfKRUuqzs4ONBJS2b3c2laG_XFID
+ BUwsUqdMAFPM5_WS.nge.0gwUx0GaAo7xcUtqkmxNKUQ8Qjhr7NGxJGQ20Zb
+ XLqt0Q2W2Zw_zLX1vtwZRuMpI4cdtmF2q31mGBOwuqnyFvtmX_BLyzWGvmbJ
+ YlKz8EjQfwl4qaENWQgeS28-
+Received: from 166.123.212.215 (EHLO pk-extmail3.treasury.gov)
+ by 10.197.33.204 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 31 Aug 2022 21:06:53 +0000
+X-attachments-notify: 
+X-IronPort-AV: E=Sophos;i="5.93,279,1654560000"; 
+   d="scan'208,217";a="86419166"
+Received: from mail1.occ.treas.gov (HELO vpm.occ.treas.gov) ([10.104.230.175])
+  by pk-intmail3.treasury.gov with ESMTP; 31 Aug 2022 21:06:52 +0000
+Received: from 127.0.0.1 (ZixVPM [127.0.0.1])
+	by Outbound.occ.treas.gov (Proprietary) with SMTP id C10162019A357
+	for <ms60710444266@yahoo.com>; Wed, 31 Aug 2022 17:06:52 -0400 (EDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+	s=ZIXVPM16ab5adfb7f; d=occ.treas.gov;
+	h=From:To:Subject:Date;
+	b=MUvhGjXTrXXT1LiOKn3YPZkzaxckqJx4bIsT52VETFvdvLVnAWL3yMp48AddQsss
+	muVpBxVWssOkPdT9NsMrZF1EvCKIzrIYcFqqbLF7qKC7OVeP4PAi0fsxMDTkV1
+	cvwNuqz6MzoFpebdB7wSum1xwWHUugQWbmiVSO/IlndS8=;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=occ.treas.gov;
+	s=ZIXVPM16ab5adfb7f; t=1661980012;
+	bh=nfwGbJPUZt5bCFQfb5jGihSRgQK0j7I+hktkcgHG1ho=;
+	h=From:To:Subject:Date;
+	b=g9NGHZTZPwhl7IEN9ctNAa9iZ7AKO2XPMPh3YaImrmIbZNUVMBLrg7FOKmDX34qnC
+	 /IPhFJOPQCqT61nLvnCXRWbuArZeAQpm6Xd32nJbnTI+/+5eBt7oFwMpLUQ6qMXB6Q
+	 fetOugpJ5f/DLkzQUDAeQ7ax/S3WG7gjtVk/XmXA=
+Received: from HQDCEXHMBPV02.occ.treas.gov (unknown [10.104.230.66])
+	by vpm.occ.treas.gov (Proprietary) with ESMTP id 8AFF4600B58C6
+	for <ms60710444266@yahoo.com>; Wed, 31 Aug 2022 17:06:52 -0400 (EDT)
+Received: from HQDCEXHMBPV01.occ.treas.gov (10.104.230.60) by
+ HQDCEXHMBPV02.occ.treas.gov (10.104.230.61) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2507.12; Wed, 31 Aug 2022 17:06:52 -0400
+Received: from HQDCEXHETPV02.occ.treas.gov (10.104.224.198) by
+ HQDCEXHMBPV01.occ.treas.gov (10.104.230.60) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2507.12 via Frontend Transport; Wed, 31 Aug 2022 17:06:52 -0400
+Received: from GCC02-DM3-obe.outbound.protection.outlook.com (10.90.10.81) by
+ HQDCEXHETPV02.occ.treas.gov (10.104.224.198) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2507.12; Wed, 31 Aug 2022 17:06:51 -0400
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=YIZC6bbnrgzEsmoIfT5S4sYdIjmr9rDbHrbg5FXktx52Kip+Kx1lU73NA/IGDiwRPlAsHPmCwNvzrysPqLr5XNx9bft3ADDyK5jZeCuqla8Kg0ClD6gtQpPzM8US7Pb91mbqxkFH+DYFiwIEgwUeJUti+TqPReHSlG2IVlYLOLVap++6ybI5BH8Ih4Vh7vpWScrQ3phCjXtIuirAyw5dN35Nx8tuzJjZPKguXY7RzgcdIyGxXX1/T3uzjc5Mf7geEvFjYjMmpTOHOedfkGbdlkCOHXDmYLpxz/B68ZQJGaQFYJ2I82hOmEroCgTsRxCy9uEgMJp3dWwmkqroqTNSGA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=RBOPyN8cfPl+qTSlM96NrjiAKhPqktvgYGZwDj4t0TI=;
+ b=ThyEuBicLCJgcTkR2GcmzwFnEOxcHZidzz0hr7wz+BfleCSHShqzwh0JAuUoHD1HwToOwomQh5iYRhj4W1TXVWccUf4KStitziK93CPXVRvCKn25lHUMhRw/4XjGM9kJeq9BH8OwwQqJg72jd13f5a8bEjD3yMrfZ/Cf07d2KHMMW/immabPotVy4h8Tpyrvq0yhMt3+fDeIOdgFsBiC89komZROO9mgUyqoI7qyMv7CTpigJz52ZY8Qm41REINUulZioUcMItK6nIzwy9E1qAIQIcsSmahp2orZVf9Pib6UC2paGg2RcAlN6VsuXexhVQkFfwOwX17KySMYUEvauQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=occ.treas.gov; dmarc=pass action=none
+ header.from=occ.treas.gov; dkim=pass header.d=occ.treas.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=occ.treas.gov;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=RBOPyN8cfPl+qTSlM96NrjiAKhPqktvgYGZwDj4t0TI=;
+ b=klYvEKG0haIoxqOYFU3IiyelWc/HeFypjz6Z+GtNVRYzlefJAiE/1dvpmLNgO1nOiklzH/0gRPxFq3FCIv83+aC9+C58nwPszGAoHYDmCIcAQy/nVFUibFjPXf5KtgmqR0kOwxBp6HQccfMZU9Ovrgzlg5H01DwoERnv7KmN8vk=
+Received: from PH0PR09MB8731.namprd09.prod.outlook.com (2603:10b6:510:6a::10)
+ by SJ0PR09MB9015.namprd09.prod.outlook.com (2603:10b6:a03:445::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5566.15; Wed, 31 Aug
+ 2022 21:06:49 +0000
+Received: from PH0PR09MB8731.namprd09.prod.outlook.com
+ ([fe80::61d0:8939:3ca:dde6]) by PH0PR09MB8731.namprd09.prod.outlook.com
+ ([fe80::61d0:8939:3ca:dde6%6]) with mapi id 15.20.5566.021; Wed, 31 Aug 2022
+ 21:06:49 +0000
+From: Community Affairs <CommunityAffairs@occ.treas.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: [EXTERNAL]Fwd: xmas - did you save 15% by switching your
+ holding from STFGX to BRK-B prior to December 22nd 2021?
+Thread-Topic: [EXTERNAL]Fwd: xmas - did you save 15% by switching your holding
+ from STFGX to BRK-B prior to December 22nd 2021?
+Thread-Index: AQHYvBqcZ8Xw0HJ3+UOXKuUckdbTEQ==
+Date: Wed, 31 Aug 2022 21:06:49 +0000
+Message-ID: <6e94a279dc7340039dcbb55998c0c51c@occ.treas.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: ded94c36-4301-480e-11df-08da8b94b88a
+x-ms-traffictypediagnostic: SJ0PR09MB9015:EE_
+x-o365-internal: True
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: A9vUnC5zABVh9U9YumbeKJ+AqfgsfsoA2V4ewGPiXWKvDDgJKICTSx1LUXFiHfMfCKTmMxvld51KKZSzfA1A5ADio9qhhvThhzhuJtheginZeBq60FW/1NjZmZmU57X97ZTwRipkZbzimeTfqyy/gYvB6POTN0oYfprzR7qWQ1OwZ9gTHR/AlyQEvoKFIF7ePExgenfwJ1BJPlDlxqHZTlYlWoMajKELinWUNCRedswxru/KG4C2NcHGrgLhuDA0t1mfA3yYcoSlAF/SirpvDFoC0/ayEq543TiNLOSAAyfzMx/TJBGyb/iGXCS36aUCZseUZDQ7ej1GWQaS6U7Mgk3W4wj3qPYMh35EZFMZvJWCAFsJRc61xC4KgJe3Q6jtoGl8MQPr3rLVpklD3W8Zc6OI45kEeQrkD0OtU59snHx3XswNTh70BD1JueC65kgB
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:PH0PR09MB8731.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(8676002)(66476007)(88996005)(66446008)(64756008)(66946007)(66556008)(122000001)(86362001)(73894004)(186003)(6512007)(4270600006)(71200400001)(498600001)(108616005)(6486002)(24736004)(2906002)(6506007)(6916009)(8936002)(621065003)(2616005);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: =?us-ascii?Q?PAgoeKDTkjUJFOtnVyf86CYweQvUMn7ikIiq0qQbU0gvNPuriKtHKcnENEnh?=
+ =?us-ascii?Q?XmbEFK6ZggoZyjan25LOyjLIkrDx/zrAhYoe1Vt8/P4dOVfNzZtUReFA6gLa?=
+ =?us-ascii?Q?rmOoy+cfj+bYuDwjAxU+KKNtAU1qGLx7pj+nQey6pPfL+/mn4oPzqxebwUSD?=
+ =?us-ascii?Q?8jFA7XZ7O0ns8dLaCozQutU939+WLjMTfz2Ek7kyteG2x9G/C7fqrTVQ0CAX?=
+ =?us-ascii?Q?DafJifegGWUraj3CB4x/hrB4pYLfrRr3Aw00qhy77lUNDYUi+ClH1rMTVWrW?=
+ =?us-ascii?Q?yD70fPm8wPU9VPwvx3nvDQtUSFQf+jBJq4z7Vt3EBvUX/ZR1S4198g0FEgq4?=
+ =?us-ascii?Q?p/bL3jyASqhOmO4WYDP513HNbTMhf+bRThdBXAlA6tBxhvAzEVc8gr5h9mcU?=
+ =?us-ascii?Q?xnm+bmcdRj5qVsqGn/68s5rbrmQS2Vz4hPZMFJEEbP7XLMYanftfpDQrZY0b?=
+ =?us-ascii?Q?bkFu1vZtlX4TtI1ncpA7D6KQ/hFH12AQqr6khANz8MXIz1/FdLv7YN40EUIk?=
+ =?us-ascii?Q?PjJgslHOUNgsj9u9GQYxkJQVcMZgrcXxZ/SUiz0tl46J8yGbWhYs4egbe+oq?=
+ =?us-ascii?Q?dTPHU7nZv8Ag1YGpl9sIjzzett4hJ0UjP+7TP5J0vZzIwKuzQEwdXbvhVLBQ?=
+ =?us-ascii?Q?RsrbLfeLUCpEDQvJNSxMcF7hZu+OWbj5H0VXp+xD7gmsjh+eEb0t5dwCps0p?=
+ =?us-ascii?Q?hJt71GL49DiTm6WlPFLbodieqUtCbNycyj/gvgeLTa/Hjm8ixFZ8KM7h/UwL?=
+ =?us-ascii?Q?zrH+6SytUbH4xO5sfEF0adgA0RrTnb7DrEQaDS5FxZOeoglbM1g7STZyJH1W?=
+ =?us-ascii?Q?k5zhVCET7fkvnS7UjL7fCo63rBxFIjQpMAfU/kj5Ba5UDBgWyVJTUjOefadX?=
+ =?us-ascii?Q?VY0w0VA6qIx9ipebgmrbz1ywb9BJpl2XAY3lb2vzeHTkI3WsH0EW/3tFSDXG?=
+ =?us-ascii?Q?m2E/MlJ7PPaAwIcLW9dd/v4VgzeOePJf4Kl6iMepLFOIlxvmdmvll/iounEV?=
+ =?us-ascii?Q?478n9JpstKUxk4e79uHKW3JLfYM9LFxjClwH560enYxFoBo9LYjng7Il1F6U?=
+ =?us-ascii?Q?YDxpuBaOoN5cMX3iIiG7mQAX1WXe773EfMvVRmjuMhymXEAPkOd1g8MgOGvv?=
+ =?us-ascii?Q?s0OjBzzfi+Cp6R+X/BTVwyj2BzrH1W5xXh2LQ17A9y/52pg1+/HGICruaqIP?=
+ =?us-ascii?Q?ra/4CPm3WLQMhIyNLnabb5PM6anQ93YSpLnEuedDmSvKmnNiVGM4Uj5rQU1p?=
+ =?us-ascii?Q?FLlgfNUHukEU8sokA/BRjGAaYqlOVnBDS9DMz28EIBcmpHRXysGHihpm5LMs?=
+ =?us-ascii?Q?G5ntpzJ1dhW4e6y4SbguDa8Lx/25k70vLrTnmssdDdF7aegxx60n9kcAJ4nJ?=
+ =?us-ascii?Q?dv8+RJthN577go4vXb6B9CEkvQW/jqNyWLe+HW4SESfPqM/hnJAmfAp3p8oc?=
+ =?us-ascii?Q?u+84cdyTt/odIaTao/0lYXiFCjHh93/FjGzjnWabmtqzjk7UIeH6yxSbT9VB?=
+ =?us-ascii?Q?7DQ6r1gtTbMCMkI=3D?=
+Content-Type: multipart/report;
+	boundary="_000_6e94a279dc7340039dcbb55998c0c51cocctreasgov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: PH0PR09MB8731.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: ded94c36-4301-480e-11df-08da8b94b88a
+X-MS-Exchange-CrossTenant-originalarrivaltime: 31 Aug 2022 21:06:49.3198
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: fd30c709-1bb8-49f1-9c7e-dd8840c989d0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ0PR09MB9015
+X-VPM-MSG-ID: eed583d9-ada3-41c1-8066-8f2393604d6d
+X-VPM-HOST: HQVPM01.occ.treas.gov
+Cc: 
+X-VPM-GROUP-ID: 26faf397-2087-49d3-9f86-b4a735dd88a6
+X-VPM-ENC-REGIME: Plaintext
+X-VPM-IS-HYBRID: 0
+Content-Length: 2209
+
+--_000_6e94a279dc7340039dcbb55998c0c51cocctreasgov_
+Content-Type: multipart/alternative;
+	boundary="_002_6e94a279dc7340039dcbb55998c0c51cocctreasgov_"
+
+--_002_6e94a279dc7340039dcbb55998c0c51cocctreasgov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Community Affairs
+   Subject: [EXTERNAL]Fwd: xmas - did you save 15% by switching your holdin=
+g from STFGX to BRK-B prior to December 22nd 2021?
+   Sent: Monday, August 29, 2022 10:41:07 PM (UTC-05:00) Eastern Time (US &=
+ Canada)
+
+ was read on Wednesday, August 31, 2022 5:06:49 PM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_6e94a279dc7340039dcbb55998c0c51cocctreasgov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Community Affairs<br>
+&nbsp;&nbsp; Subject: [EXTERNAL]Fwd: xmas - did you save 15% by switching y=
+our holding from STFGX to BRK-B prior to December 22nd 2021?<br>
+&nbsp;&nbsp; Sent: Monday, August 29, 2022 10:41:07 PM (UTC-05:00) Eastern =
+Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Wednesday, August 31, 2022 5:06:49 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_6e94a279dc7340039dcbb55998c0c51cocctreasgov_--
+
+--_000_6e94a279dc7340039dcbb55998c0c51cocctreasgov_
+Content-Type: message/disposition-notification; name="ATT00001"
+Content-Description: ATT00001
+Content-Disposition: attachment; filename="ATT00001"
+
+Final-recipient: RFC822; CommunityAffairs@occ.treas.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: vYdD1IvKWUmPTlLHmpzpGg==
+Original-Message-ID: <de929737-0080-6052-a51d-df71c976cdb3@yahoo.com>
+X-Display-Name: Community Affairs
+
+
+--_000_6e94a279dc7340039dcbb55998c0c51cocctreasgov_--
+

@@ -1,0 +1,211 @@
+From - Wed Aug 31 19:42:56 2022
+X-Account-Key: account1
+X-UIDL: ALSt8sAh7nIAYw/7cAJlSEE4LS4
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.137.14
+ by atlas219.free.mail.ne1.yahoo.com with HTTPS; Thu, 1 Sep 2022 00:23:11 +0000
+Return-Path: <as@usscpo.org>
+X-Originating-Ip: [40.107.244.133]
+Received-SPF: pass (domain of usscpo.org designates 40.107.244.133 as permitted sender)
+Authentication-Results: atlas219.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@NETORG6020991.onmicrosoft.com header.s=selector1-NETORG6020991-onmicrosoft-com;
+ spf=pass smtp.mailfrom=usscpo.org;
+ dmarc=unknown header.from=usscpo.org;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 1 Sep 2022 00:23:12 +0000
+X-YMailAVSC: nW_Mzk43bBvFDLTlgOpg8IUjVal81jn_NpLm1r4CBZpsGGD
+ OjkocaDzs6EfsB.ANjsDHlpH_0R7gqB6LO_CMKDbvpga2unLMLzHf9age4Mv
+ mCzBwuKvD4W3elKi.1xhYgIY7e5qN6pvyR9AIVxY45OtZD959j1FuX55pap4
+ K.RJFLZwvoWqNLt44irvYFg8VP0hxG7vqzj1TubgHg8NI9jkBSLfdtsuNWgj
+ W4ZaOCKzps5NCa06eszMl9NcMtdPMyGPhmo2A0fgEn8KcAYdKFIuhC0KGCsP
+ nIvW7j1BcfEVzFNNVd4W.gCIUiVWJXZL4_0FEp6IaC.NJX1yh6iCRLaocI0W
+ 6_Qxrdgf69Ay678_jWkFZbcwhx.eRmuuFZ7RGZOANVbPMQIDwbssKkb8fg.u
+ nh9kdROXGtZaBM04TlZDuz1nYtsEtzbUATSEoVkbMBdSf1YQvR9hoZdy2u6r
+ GHtC7CNQWzWBEXWw81OtMpTFFNaVxSUVyIyki4ofSaSVLx.IjZGF5SE6qtnP
+ DHLfphLtVNbq91uXbnZYyFWu60UE9QUpW8L6zWDHQf6J1uaz7U6c_SUUK_L7
+ UaQ6mUL4rri6Pi9lIyr8bGeSRoP0B93yaB.v9.WN1GcaaezJvPcmWe1Y4VW_
+ SMH4hDBzfxg.7bT__EMwyv5JW_xjkaH8x6jYEsv3ScgbM.qxCo418R09MaCL
+ aTxhnNedKFzX62I1B9Fs_B9DkBAnSyG9wd3tmLaS5J0E2gg.nZUtfmATXxAm
+ r_5gn41ARGRf93s0ShRcZJrSrQvgM9FnpYW6DG0fn4Bx.vctx1uYBD7E6arD
+ ccBg13qqD5XLUU7vudEkdn1T4ET_nnEjar1ivGEzGRsokFlk1ZJ9mteNHFSj
+ yfbjAC8SCK5ZmsT_XFGzxtBo6scYVqmhrQkoo7CofkEnu_fdw10uzxKw1pCx
+ XLAF.5a6ywIkdutiYLz469CU_mqqcl0zPo.C_mgDghrZU5um4bzEbJ7sI_ZD
+ qQTLTDELuzSLnx_GjOOaH1Io1MUIZKup0QJTPZd6Er4DZytwqsgq9qd_0p_n
+ INlkLLBD_bgdupow1tE1vrmQCBm3lh4TpJVy2R.Tc
+X-YMailISG: qr572GEWLDsaPgQbKBTYnmUGCTozDDuDCFqo.Y4NmDttXfJq
+ zMWvRBramSbwMDgc__cT5KuT9W_XpKwzyx06zVfkfZwjq7YFGQ5OVZneGnNa
+ HhuXdot.qrc_yS.XB_x8mg9EMVlVzS8YqUi3l2l3ZA49rKmtMG1qQlhM.U9l
+ YZem67VJH5ZwqvdJr6aWQT2Txwb5.UTgPuKmza8iB4URarUSR59bhEARjVcZ
+ oT3aX3fVmMjQJZjrkVMovMJYV82KcUizW.mBlnaBzG2JxmFDqSLloo3ZFTPO
+ 4K60yK_ddZfYWIr8h_dkgTZXLuydN.wkGX2ktQOOmz6Mz4MqblCUeZRzK7XO
+ zyy.Ldn70y6kZfa9wZo5FjzrF1ktvrezHRjNUEgqUqIppZbquwi.TRlvrUtm
+ Ik0cAeTYq5N_PfNjLnhdWD0n5TdhJ9rqnrUpwVv8QmM1aM.Ww4BdUyPWwU1f
+ 3ig6AlpiA5CwIHiwkZU8QeEcn1Q_WYUaRcl0Ep8FtQqy0.pu8QYKGbwXkKOh
+ N0n3i6kcAT82NKFq_1BTZMpKqN.uMUNN6YpOYrDoIGRd2dvn97gbmFqXdHLa
+ Q67vFxdMmS55kgd1TK6dU_TxsGHb_5CErNrL7umQWgfmX40okvyvD6LFSq0s
+ .RmTNwVUIzvmER663RsgM1AzOI8yY1fWA2sT1mH_hv8Rvjd.hr74h8LuGfqc
+ BArrkxJnM4Q6zZgX4mECMh_nsXvpREBLT3lgZy2apTjVCNgHqGc4JxE2dGV.
+ gfMSpjzBByL5zzrEpfbfJTCHkhJAISnsGcaXNKiIlvLzPgLOtArsTp4dUy8a
+ jjfeYhSjk4pmgA9OsysQ.qDQl2kbOeVp3o3neTNNcoiWN_SzrrdCZo3z8FLu
+ ALERl2keKn.raA6vikcaGtWaZvbSxz.Jaj2fs5dmMLPYGnHZjWQjJR9c19sO
+ qHWXgmQy2Z3blmQSQHuwZtu4yh4INgszfeIEhCJ1.d6S5CiuSEz81ho8do23
+ 8FAy5ine95qtmdHCKD2waGTbYTufcQqAbrivH9q1evvN612_ixDNTDRIUf8c
+ r4bAXNarmFspkNxkuJgCqFY6zqJmsD55E_.uaSZjH5wk.3AD5GiR_VDPIVon
+ XFhh6PURIyuhdcq5e5nwIhi4a8zh2TBkeVOGSD0NBi84EaJHUQqbONmvWKhc
+ yCnncO1DZZuR7XAHa0c-
+Received: from 40.107.244.133 (EHLO NAM12-MW2-obe.outbound.protection.outlook.com)
+ by 10.217.137.14 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 01 Sep 2022 00:23:11 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Bt0/a/j2foTXgmLs//Vhn39rT4cdgD2ZQTFuYzGhnv7dbqFxBCdRjwHmXCHXBmcxZRp8zxmK8YZ/JPSTzVff48w0IPQM3/7Qar1NuovHPHKoLj1Xon6RX4mVJYlzJYlKWBydfsiK8/X3KXJg3C6/yXHREP4cEELJyhZEB6AshHdoGnjIrDNsy+kFzoX8wNUEFbts26PC7yVifNnMuIOZxiOKLRpddAgcYQrxKCiDcAkjpOHmzL9g161c8PGQWC1A1EkEAP9OHzMSjZ7zNqUsUwSkF+dbXtEOU7k3xgHABJSofeUNMTvn8uuUxcjdFsiJGFmNc3tkZDUtMlDVhvbfhA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=Pdz9DN2Cs2QD/ImJEFlwu/ON7jumAdoq8FpWFhPXDuo=;
+ b=TPolFmjpNCKUQla4htEmFBGKDXj81TaktAeM0nTYkGnYxzaEccQL2aQQvazY0fbHRBQSmGOGp9a3f7Zx/vpa7avN5a0j9bUcjKV4hW96vks/0y4qgVh9FB5vWLvg79naYjcRkxeOA4HiHaut4VXhx+hF+FMH+S3FMtyuwso4QzS4UOZDvC6lVvYXTx6Mqb4hwcrCJFXWP9ZiSRO/+5mi65eu649iTkijHeoqDowLflHg2E8gK+jWIdo3w8OBPMOopyOPmN+qdpmlOSrk165NIomuQ7xseTA8el//Zo6hxQDUuKn17rTmQGMr3gyw6g/iVB32eh1ZTpCbfIgRRm8tQQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=usscpo.org; dmarc=pass action=none header.from=usscpo.org;
+ dkim=pass header.d=usscpo.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=NETORG6020991.onmicrosoft.com; s=selector1-NETORG6020991-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=Pdz9DN2Cs2QD/ImJEFlwu/ON7jumAdoq8FpWFhPXDuo=;
+ b=SAE/3Absd2VFSTc01WjrNhGTKzklYMh/fnsLFwCKHPPMOGHhaVCVQtoF2U7HrlrUjrYuaMHQ1muQ4+WvC9oKhlMWYTPUUXng24lM/fK8lYzBbnWqPjqoSIwmBkh2W+7C1Z4DPMrhO71H5ZMBzE7AVL1xT4eOlg/LXTEdI7MEBQ8=
+Received: from BYAPR04MB4646.namprd04.prod.outlook.com (2603:10b6:a03:13::25)
+ by MN2PR04MB5520.namprd04.prod.outlook.com (2603:10b6:208:d7::11) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5566.15; Thu, 1 Sep
+ 2022 00:23:08 +0000
+Received: from BYAPR04MB4646.namprd04.prod.outlook.com
+ ([fe80::2107:1f7d:1e5f:b6b6]) by BYAPR04MB4646.namprd04.prod.outlook.com
+ ([fe80::2107:1f7d:1e5f:b6b6%7]) with mapi id 15.20.5566.021; Thu, 1 Sep 2022
+ 00:23:08 +0000
+From: Anne Scattolin <as@usscpo.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Re: Fwd: Your fax to SECURITIES AND EXCHANGE COMMISSION has
+ succeeded
+Thread-Topic: Fwd: Your fax to SECURITIES AND EXCHANGE COMMISSION has
+ succeeded
+Thread-Index: AQHYvZcPvbMDhmcp0EGRyFGGTlaaWQ==
+Date: Thu, 1 Sep 2022 00:23:08 +0000
+Message-ID: <4e411dfe64324f67986e4c04c9ad3acf@usscpo.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 7c6db2c4-b174-46ec-2e82-08da8bb0253d
+x-ms-traffictypediagnostic: MN2PR04MB5520:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ i2fCF+4rimmPpKolDmNLMorJugiholRv9Op5D0T7Yf7QH1GnPNBzEVs/gYtRctnnCDRulgO62j5+F5mEqTlfVrVVbXxbJgUhgbSgiEEPuZPAZnNf6oMqdhiEpVs5QlZswkoFBmsSRlKUlv9WcRqoqD2RLegtqvEgQvVISDWn+pI8PLrAYdzLPSf16Z00sR3fMKbHvYeYGNgDGW3o493HJlJB26NY46QU1PBHx1XvCk0atm9dprEoEGlGRnurhjSmsduOdS8N9Ckef/Z9yp9VWpBtM7ReH+LYxcZgFP/0UpVvh/8qeMQC/9tiTy2XkE3a1dXkGF7b5SWxld3RtJh2LLVFo4n3pANVKQne8tlcUfjHCDulgnX/382cVUbvLjtK+Y42R+5hfaCMDJiJaRwKmO1yoEeERYB8eeFnYOEKm+MjOuqaTq+TPyZNzTUnovbf
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BYAPR04MB4646.namprd04.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(366004)(396003)(136003)(39830400003)(346002)(376002)(316002)(6916009)(86362001)(122000001)(41300700001)(66446008)(8936002)(36756003)(66556008)(64756008)(88996005)(8676002)(108616005)(66946007)(66476007)(6506007)(24736004)(4270600006)(186003)(2616005)(2906002)(6512007)(73894004)(621065003)(71200400001)(6486002)(478600001);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?bC9O+/3r3SRhyNMWNNeQ7W6dhMW0WTfJBPPB3Me4XLFhspif/TXDxRWABkLN?=
+ =?us-ascii?Q?eJiWu3zIZwegTpKQYTKo1/8d/OL+hZylj2c5C1uIsMhf3lA5+Cl3kHIa7ArD?=
+ =?us-ascii?Q?g0JBje2c1NaoNwIGl5RcHi+YHIZ2Zy7o1ReIc1AWmC4THGM1+2vzsHgaDyWH?=
+ =?us-ascii?Q?NWyEpUAnAr4OzjtxEUG8EPv/bn11J9Caesf0sH95UzpAMu0AB0zaR/2dxZh8?=
+ =?us-ascii?Q?7oFFyBzpC4mIYiZF6QrDKLh6hG2Yy7LNYjuYNdvtUZ4wUbosrJc336BXTblR?=
+ =?us-ascii?Q?5MFdVNY2HNOByAkcYlgFNiDLIvHel+HdLHwLvdxvgipsXKfUGiEUDkDsY0Bl?=
+ =?us-ascii?Q?ke9QH9Qg3YJr0kQdRFyU0+Fw09qRvS2vPL7NFlMkDsUBl2IN53lUxdyYar4b?=
+ =?us-ascii?Q?4602wgWVDvRkdRMYrrEvt8xMCDbRuee038/ZBoiEjdOnnjNi6Kl/nqN48/GT?=
+ =?us-ascii?Q?eSBv6g1ypPO5CG8HAQ/VSkkoXhlQ4wvNn67rEbjzg9uv7bjkSXZH792HAhz0?=
+ =?us-ascii?Q?ADq3Cd8jD3qwZgN3E+SDcNMTuAeTu46zrw0fj62ZpV3hrYHk7mM+ooNb3b/J?=
+ =?us-ascii?Q?dLwPc+4ncSM22OrF39jgoE4GrAVclC5guszozEOXTNDLEjSy8Uhk4pToyODM?=
+ =?us-ascii?Q?Z0jd6bytEL7DnLHPifYYqdFmLU9LR5Xjfp70D8sVDQ3YY0PYsJ+Hdzb2LIRz?=
+ =?us-ascii?Q?iuJMcS8y6JLUHxCRYUqr5v841sEpX4bv530hQr5OEKFZDKSDb2nD7Lg7dBYS?=
+ =?us-ascii?Q?nr9QHqepPOgr8R7aW75JQllmkKnODzRF/vOjJwp+KX2z5CGgt5qlnCnQ47/f?=
+ =?us-ascii?Q?V3TWDwb56pglXoNyFkRUVgEQUjkJRnBYgXnYA105V9c53AxzL9LTKDDcdKVx?=
+ =?us-ascii?Q?YRqX6kWgz4BbjwQ/B5gr9swtTtrWMQIpL604aKAtWrMPCDsistn6u8I/pEBF?=
+ =?us-ascii?Q?wgbgNmWrtReLhvFwv3bKUKw5IGIvvt8qKT5GtwIQzGwgUrq9QwNxOgEVKot6?=
+ =?us-ascii?Q?9jTN28uouqoupJNb61Q/JqR+R7vxrp2L75mssASDqDlzXnC9T1LcDH9tAq3x?=
+ =?us-ascii?Q?vNEzUuNrhXXimLvNZhm2klUI4tU9JDHEj4C35VV53+QwYllAq2gMl5izU3ek?=
+ =?us-ascii?Q?P8Qa+id3tmNcmCxkQONczhgxZZSLqB0SLWKE07TJbNPLhu/94l7w0dRrXYpZ?=
+ =?us-ascii?Q?NE7LuV7nBHmZK4VBfZjRNSVuOiiyu4BXJm3Vf/OiKon46F4IBDMvzgG8pUHk?=
+ =?us-ascii?Q?em67dEs0E6NTXG7OK6f0sIo8fg6CZJu6FYlnlgPj7qo8Pg3qlYXGK2rWw6Gq?=
+ =?us-ascii?Q?s1IMrzCxR0s83PcE9eCzmPS+fODSl30SJ1if+9d1dKu+U/HonQOLHcMDK32j?=
+ =?us-ascii?Q?eU/uhtI0ulBxP0hpFzd0N/IREP2hKHG+A8mHVk787dGzK1Fgla5tq6IDR3k6?=
+ =?us-ascii?Q?7fIrKkHk4otidvgmVPg6zhmJ1VcoEK2P?=
+Content-Type: multipart/report;
+	boundary="_000_4e411dfe64324f67986e4c04c9ad3acfusscpoorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: usscpo.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BYAPR04MB4646.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 7c6db2c4-b174-46ec-2e82-08da8bb0253d
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Sep 2022 00:23:08.1305
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 6b300337-3093-426a-8e25-e7b38f3755a0
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: OlvBIvXpFn/v7cz7Y8mvY4p5Z/cF8i5nYm36r5ywweEkX80Ev+7mAjt1WJH++Djv
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MN2PR04MB5520
+Content-Length: 1984
+
+--_000_4e411dfe64324f67986e4c04c9ad3acfusscpoorg_
+Content-Type: multipart/alternative;
+	boundary="_002_4e411dfe64324f67986e4c04c9ad3acfusscpoorg_"
+
+--_002_4e411dfe64324f67986e4c04c9ad3acfusscpoorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Anne Scattolin
+   Subject: Re: Fwd: Your fax to SECURITIES AND EXCHANGE COMMISSION has suc=
+ceeded
+   Sent: Wednesday, August 31, 2022 8:08:41 PM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Wednesday, August 31, 2022 8:23:08 PM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_4e411dfe64324f67986e4c04c9ad3acfusscpoorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Anne Scattolin<br>
+&nbsp;&nbsp; Subject: Re: Fwd: Your fax to SECURITIES AND EXCHANGE COMMISSI=
+ON has succeeded<br>
+&nbsp;&nbsp; Sent: Wednesday, August 31, 2022 8:08:41 PM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Wednesday, August 31, 2022 8:23:08 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_4e411dfe64324f67986e4c04c9ad3acfusscpoorg_--
+
+--_000_4e411dfe64324f67986e4c04c9ad3acfusscpoorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; as@usscpo.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: xRD7RThiXEyOIojyhHnpOg==
+Original-Message-ID: <34959ed0-7e34-6ef5-ae27-3716822ef1f1@yahoo.com>
+X-Display-Name: Anne Scattolin
+
+
+--_000_4e411dfe64324f67986e4c04c9ad3acfusscpoorg_--

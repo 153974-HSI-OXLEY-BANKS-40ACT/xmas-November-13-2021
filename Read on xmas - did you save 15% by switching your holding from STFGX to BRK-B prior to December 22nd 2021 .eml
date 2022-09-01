@@ -1,0 +1,219 @@
+From - Tue Aug 30 09:01:40 2022
+X-Account-Key: account1
+X-UIDL: AGje24EsbVBoYw26wgajOM8RHhs
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Tue, 30 Aug 2022 07:22:41 +0000
+Return-Path: <jenny.mcleod-aggrey@icmpmusic.com>
+X-Originating-Ip: [40.107.8.85]
+Received-SPF: pass (domain of icmpmusic.com designates 40.107.8.85 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@icmpmusic.com header.s=selector1;
+ spf=pass smtp.mailfrom=icmpmusic.com;
+ dmarc=pass(p=REJECT) header.from=icmpmusic.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 30 Aug 2022 07:22:41 +0000
+X-YMailAVSC: XznfE2E3bBshXwPrlauBVGC4lLGSXMHTGHZCeA7kZ5Its.Q
+ zIqg_JRjJbd27h9mxhrMM8qgf.fDcqsX.5WNKAl7zKsl9MHD9QjuWQPxMEKh
+ FofSXMmmyspM5tTSgYxW3NAEHS6u6uGJmO.mLbXWIOPALRYpgC2g.665Er_4
+ 5p9MJ4BmmNcSqhG0pamIjRolv5XoRmfzu_uBJUqrHqOKfLr4qXhzQrOK7HOP
+ SBTMVdJmXoxAVKDcHMoXrrSvMrl9fVEy5mw43gL5y7LMTyLkEYoB_rqKrgFt
+ ekpLj7pV2tCdb9wsxzfFFh.mBFnmgLKWVkDbMq9y.Axm0OBoxCQMy0Y8RzlK
+ 6VIate1.Icc5HBBmQ7eYUEbiG_TlyJRP8RlzHW14nN726rfFKzMGQK6ArCfy
+ ZT_WNLgRy0YUI_hh.S7OWrY0Adg8bS96fpW28zoldHRqS26rGwtIw9tUAvEN
+ EGSmC5G_dzYeRy3VyJ3PZDSO9iJWMPBIudW6da4bo2lJW6nlX_UPfmf6MJKM
+ 5gPAITCtRkA3EL6YmGzjoo4hLUSOnOLVISuyEQXG5_YCPgNqix8NzSxwDALq
+ 650disY6ibxaI1RbVosvA7.NtrZ4M4CNV2pZVGEbZG5uRROIQWs7zGMHZLmI
+ FeSCPP9VTRPCB8mKhmchTpsc5SpL27HIAYilMLzsJ50EAy9g5EFHkPiXgJPF
+ yaWdJ4SO9VHvip0PSMbw.mLiY72HHeuMYg1XqwPRS13acG6tn42uz5_6Rqtp
+ mwGymc1f5S8uabV17TgKkpzeImHVBOvc4nYancWZXOqgWUsFRNcfrrFysUAj
+ XudeXV9VaRah7J7pdNduRBy9UtPFXc57D4ltarh.lWsP2fs6278uZh.G4hhH
+ U2g_WvCm4QjgMfHOePldO9ZxKbI5a314PJHKeSvvCaETFhyuHF4haihLs_FO
+ hRqLk3C1_EUKkQ5GUXAWwlT4d0XWKgTWroZu2JVnYS3U2kjhH0vmkd5o5U_y
+ boYflQibTSObC6FYzT3XitJ1.b5Ujg6IERPgF7_jGxG7jmhCQUL8fHpos97F
+ Syr.H0LFHPPoiYuxux24mPfqr3lyr5Fxq91iyOF4vc9i9kouwpq94zC8alUk
+ nVjtcOXgUff1UOXvP56v8gSE6jcZ8OCv7brCYxzjgk45JggICM.9NiY8r0_P
+ 71bNTCQTXXMUGQpi.GGQdv1aMjdv1sf7j7lPusdEM.2Q9C5frVCI-
+X-YMailISG: E9YZLSgWLDtuDDf51O47HOQwEBbREZC.RTebFgIrBzglXaW7
+ Co4L4cMBCnONQGgo8qlCwNM.lqGI_cFZYc.YSwnrpG0udFGSraLw4Sqqw3lK
+ OEDExj8CDPrv2lkjoaiNawe_.XQYuHrj7ymQEpxUH8RlVk5nfcgvzxHogcJi
+ g6McjIYqzmVd0dXyGEIz1YcPtBtpK6QCVHz1DPXX18luYQplbKzzcwxDQUPn
+ ELwNCbTAxhRMeOR3vrK0074RIYPU37Ha3mXQuM_KlkpxKVN.G8MB7C5SUYAm
+ VTAjZpUsrdI5bbwqqv9wdFNKiyRUyy5p2a_CYz8doNbHjYGNYC3EFOpmMGSY
+ zNFJR49rnMxF_HIUK_v58rimPxj6u02uuw.Pt1XAVTITxiyTIEPC3obGt.vj
+ HbA3zO.BgAb6sv3oNPVPUyxOdPvHtMxXA3FrHgbqpL5p.jrTANP2gCS_gveU
+ _UiG0U9ejun8ZfmogF.qfgl6GVMQwrTlJelvu8GE9G10cdAonAiw6fe0FMRb
+ iQvuaBvQ.WU3zagVm.zJ9CRCuNNVXAzFE0KihUXyoSq3nx04JcA68uXvoMLz
+ MOOeAr5M3gP30hjfA1_MIUXnGO8DlbUlCx46RhsIqF6fh9kTCKvbCLV_Op9j
+ J9cEjpvSxuWDq8.VGCR5NOWYcv4ipcDJJrhjyCmj9BJhTc84guRViNiUl0Sc
+ UKqWnbG6LEsyJ1pUzKazEq2cQ2IkUQ2uiCqxHKZJDKBgJHZ0Jhv16HR2zWfk
+ CepQN_p4avWxM2pB_4DmYvcKrh9njdNOYI_hX9t1jwzvmjmvcI.7ArVXvNlX
+ gpvswIFDSKK.4BL.MmLGzv.CwoFSYCtvOFwxT_9yrdWUvyaIcAcrf7I2rN2m
+ c9R6_53CJN.d.2.7BUiyVQfeaEmm05qvwwF8.Go.GiSGkClIhD9yv3UbAUyu
+ lg7r3ZyPytO8ZoSizxxwXJGQB.q7YTtsDT.EJVxAZmELhCeCowM0Q.3F14to
+ Xf9qtgeS5NYoWxqfPtV2Me8JB2hK3_4xSVmJLISVPqWD0oH4gk2xnORBouxQ
+ I5lYE0vPyp0ZcRDdX7NzQdPCKzEbdtSCsUiEGV6tsV1yXcU0GjfvTIRIRvbS
+ rX8dP66G9QB.V5VWgjKuAuGunWYdgHn8sN5JvkxHysqEmm8Z_eq9FPSfGKIO
+ w5TtDkmTpTelJ8GXCTzKNfvJzPNneJB5LATtHAIJ7yT4RH2AaiOpAX8._VwQ
+ 5RrLvv.TmyTcmRP960gT.NF2nPORs2ix.QwjzH0k5wJ6r01kZ2HCIxK_.hzS
+ i66hcIIwlfL9TpZ_niR.gjLEYxIf2pHQEYgoRZ74
+Received: from 40.107.8.85 (EHLO EUR04-VI1-obe.outbound.protection.outlook.com)
+ by 10.253.62.159 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 30 Aug 2022 07:22:41 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=PXOmxvf1MwFbx6CJXaDZAJg1iDN57WGrJnIBUvV3LXjWruYjBLjumdFg/l9TSEbb7VSFCVw+k0jemVCByruNlx2rRXi2C2wNXsSfGGjiguNMkVQibwHPU7PCqWvzIaUGLV9eJPn/LpoiwLBqewMuYDElGtjjOyXk07ux9Gkd4hqrC2Ipp+QVEUFPDxHbEQKNwaQrnkSK6YHbTCldTM6/9kSNASjHWVFB/3vRkAUYmBNF1wKGhVElDSPgHDLa6x6bPAZBmsRzt4+WzomQBLHt5xm0ys/7vu091nZaO7BNvbHXtFNm02r1bI2dyqBctplHAGA8ijJaQi4in19ax8Uzxg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=lmawZ6yz2/OFQXAOb71e1y1wMsW/wq0hoa0DmJGTYWw=;
+ b=XCrft2etZyxwPY4ck9fIKZXKjcfqb6AJDViQCbGulT94Bn2uJt67K0ucLkATqaxDHciLNSL+TNmeD3hYbwfSCBQCGv7gZMVjZVYvDaIbcHQ0yajIBxOZYWaRei5A1bOPCtMNYHZT+c1u4AqmilBebw3m2NwQTuuZRuFjOLWyyh2APfBTyNVhuGWNqke4CMKIwGBy4UN5Sb4YPPljgHMcSPfQ6saXHbKhCq4nA4uoG/FrVdwLwdkrE7zLQl17ghPj9oikTf6Bnb4CP1fGW8m2vnaSngaNsof72N7J3KvUDEcYtIX90S6na+iQ7wEZT12+E506gLWE6T0AZcLl/hhRtA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=icmpmusic.com; dmarc=pass action=none
+ header.from=icmpmusic.com; dkim=pass header.d=icmpmusic.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icmpmusic.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=lmawZ6yz2/OFQXAOb71e1y1wMsW/wq0hoa0DmJGTYWw=;
+ b=m8Ey55US1PUg7Pg0XDL57ZtZx9FgdysQHdXxSqjEbadnMID5CO6IOefImtI76RsVj3LSQ3bu+Iuei/0Lr2YbRJjTCACfevZY1EjYPW6dHN6SA98y3lhDAml8OCtaSL6H2KyEJ1L3GFca1cI/2zJvJmaCNWGgr0y/i+Izd7QrLTNWJM3zLSRkby07g0ZU0R8VXcSTac7JAqwERQ0wKvVzXG7MZUzge1VClOdSdWLHxeAok1oR9pDiQRIGtvOKV0pj3iZeOwFa3HaNCoo6KEXDXMcYgqSpNHL7NB37Vt/enGRaLKlbQG44gDPveQ6OTA4CFoqhFVIgCRnDu4f2at5rCQ==
+Received: from AM8PR05MB7170.eurprd05.prod.outlook.com (2603:10a6:20b:1d3::21)
+ by VI1PR05MB6301.eurprd05.prod.outlook.com (2603:10a6:803:f2::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5566.21; Tue, 30 Aug
+ 2022 07:22:38 +0000
+Received: from AM8PR05MB7170.eurprd05.prod.outlook.com
+ ([fe80::2ca8:ad32:88cb:c9f6]) by AM8PR05MB7170.eurprd05.prod.outlook.com
+ ([fe80::2ca8:ad32:88cb:c9f6%8]) with mapi id 15.20.5566.021; Tue, 30 Aug 2022
+ 07:22:38 +0000
+From: Jenny McLeod-Aggrey | ICMP <jenny.mcleod-aggrey@icmpmusic.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: on xmas - did you save 15% by switching your holding from STFGX
+ to BRK-B prior to December 22nd 2021?
+Thread-Topic: on xmas - did you save 15% by switching your holding from STFGX
+ to BRK-B prior to December 22nd 2021?
+Thread-Index: AQHYvBn1u4Asm4w99kuCw2E/Dgi5Da3HClIn
+Date: Tue, 30 Aug 2022 07:22:38 +0000
+Message-ID:
+ <AM8PR05MB71709920649F41706C2CD84FB5799@AM8PR05MB7170.eurprd05.prod.outlook.com>
+In-Reply-To: <ed51881c-af34-b82a-25f2-6649bb804dbb@yahoo.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 8d5f053a-d5db-4c0e-09d4-08da8a586b31
+x-ms-traffictypediagnostic: VI1PR05MB6301:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 1DMnFfXHLK9EA/ywX7WVg5b5cdxqs0+UHGbHDIR44IURF0RgSVHnFeycFEIVr7Up2oo0FjxeY618CG/OItUgZaH8PMFklrVu843SdEdO4naS2jEc9Px1D/zT9B/+VIilkhbBTqf098jOBJ1yLssb0MkKd6gGVszNY+8EYJ9AL6EtbFBr2Yq+Gpsv0VOY1AxN82gqD5YCHbdnEii8EUINUjOMCH4bx028ee8QHA1+NBkqhjfOoNKtCsUcO+l3v+WWtwtXV9B/SS4M5a1I4YZSCfGnavMrM7OGruXqXMOigZntN38Moq9vpIdX8PiFZIuy7EoY3ZzJGwVhA4+YAOY+fk+Sj2UutNvSxhi5PwfbrVHTCwzpwlP5R7AJdFr8A6E2LWoonM+mCpd8vN5MzqUYa4gTqG+lDb+e1lD9UMJ+nzASIkVzH2or2Z3EipdPCMfqrjtO67TznfVlyV+hzYHospzd1UQsLyL3KlaadhQRUrt6am+S6aZW3dQaE+dHHyJp
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:AM8PR05MB7170.eurprd05.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(346002)(136003)(366004)(39830400003)(376002)(396003)(6916009)(66476007)(66446008)(64756008)(66556008)(52536014)(66946007)(8936002)(8676002)(621065003)(33656002)(316002)(2906002)(86362001)(7696005)(41300700001)(478600001)(6506007)(76116006)(4270600006)(71200400001)(55016003)(38070700005)(9686003)(73894004)(186003)(26005)(122000001)(38100700002);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?bnu0jOFsl1TMFgtq8PXftYrv7vQNX5A8GAKW7mxmTy04oTRvxH9TPNlL1Iij?=
+ =?us-ascii?Q?4UVJMTcd5j7QlfA95faXpmHqjvlTzn763+/Mwdxln+QAWZqNNQW9CEeou61H?=
+ =?us-ascii?Q?gWDm1mz7UWkEVdxz/Lvs4UsfLCvAsmIekJviOAMVeZTItvwAerrVFgM2e/IY?=
+ =?us-ascii?Q?PhBjPfRC8fAhU+BC9ZPLihsNHhj5gqwOh2yRx7PyqmLHfhU/2Ys4AdZx4e0b?=
+ =?us-ascii?Q?W676Fs9GM9+CR/6yDxXKKjzo/TLNFfKJCHfEuWSKx7kOH7mcmJhWdjs6yw9U?=
+ =?us-ascii?Q?hF2cjTDTBXzkFbxSDf8hD/zrtqDx1jlnlWvNplPBoLyNuvUCU6NU7CdZY5NG?=
+ =?us-ascii?Q?vB4JAanQfJ3GAWwtZOFaUF7iWFCQFHGBqxS+Te/sgOgIkZnqIUj9ARl3m5MU?=
+ =?us-ascii?Q?8eNg6K2h76jw4WiLtqntpjDRX3/kzi1Dj1OosbYR2i8VW0w2O1XYI7Vbjnc0?=
+ =?us-ascii?Q?aZoB5Bqjaj4kXBoEIOa4TNuA7S3N1ZWE5wEPslBVZmvdDm+SIQO6NknT5YNM?=
+ =?us-ascii?Q?bzIjYT15yozagTCUSLO/z1l5joe+p9jtVHXd3TjLQMekqz0sqRHfowKyU6Wl?=
+ =?us-ascii?Q?AOq37K+GGiNjnHschDkf84QLAUh2n/NeF61iLwxIt+9FzGIvMdQ8jHPArB2O?=
+ =?us-ascii?Q?ObiAC6ISdYg426Uu1AIh2hryxrT2Nw10n983PRWiP2CIVdgOJzD3jLUs4OTi?=
+ =?us-ascii?Q?jWJ0Y5RrqPCN3d6ApR3qx4an42YT9VZjDfKLYskITjP8mEuCYPrhVmY6yR6q?=
+ =?us-ascii?Q?yN/XF0KHTfDwHSAw8LVwIkPRxjyOtYKMeg/hcJTJxrqtabWtj1noJFaKOtjk?=
+ =?us-ascii?Q?0S7+5BuyJwh3Hd+SoK0aKE8614WUR4/6V7ATC/HtinSDUXkkv35D2lTQySS1?=
+ =?us-ascii?Q?oYs4AXs2PnPXwOYtO0T7k2KCZq3YKpP5cRv8J7yjDIHlZKDn0Ju1jmqgYCpI?=
+ =?us-ascii?Q?o2FTZcpmVTuGZ9cLAaPZ/Ikc8fCeWh9MwUqQBVCcTUjKu0L0PJaLsUfKOmH/?=
+ =?us-ascii?Q?3Wj+c7aaXFqXrbHwx912/PjfuhupKDjLiTVaVJjyrnRjbI3Jz/SLzDb69xre?=
+ =?us-ascii?Q?35/dTazUJPvi9PqhFRLN+HLJIhxdaW/6t01yecqBX0tKX+dQaY227JHXU6Sy?=
+ =?us-ascii?Q?3GwQ7XXA4JVaIp3fH++uVSiKEdMZv2ibs0HvSyGomz0fuOz5YGrJ32rZ/C4W?=
+ =?us-ascii?Q?gd706IwrOUzRwK29VUVv8iuzZ9iedelAfXXjRKpA8yXmZ2Ek6suN4MiKNiif?=
+ =?us-ascii?Q?X9bmC6K5dA14RxgV851o7q8wqKOs8W96p9zGDo2lucY65k6vocqMq9FjglvN?=
+ =?us-ascii?Q?fkPAp4Y5uyV1wK5cA0IqhPAfCVWOq/Kznszid4/Q8abAD6JtolePvTer7AcH?=
+ =?us-ascii?Q?nueHtIgtJ8ZhqQ/Ilqmyit8yVTcpYxeYbMa7++B4FWIFo+hUg/6N1/p60BH5?=
+ =?us-ascii?Q?nKLWNX9I9DbISWzLD9KVs9tQAFsz4rwVCyxyDvcm+PR3HD3K/tRNCYs/tcYn?=
+ =?us-ascii?Q?8+e9AoNtjaJm44NfK89KMFwohJWF6hdspxwCNQvGmz8CLjN07BXE9QL2lmO1?=
+ =?us-ascii?Q?qimxiMSRlWgTEmLqYekMpdv/lNNaZvlWNdbt86GDCiRuzwW2U/pMIXt0HkZU?=
+ =?us-ascii?Q?Io0nsPXzETysmUq3FQpp/m4=3D?=
+Content-Type: multipart/report;
+	boundary="_000_AM8PR05MB71709920649F41706C2CD84FB5799AM8PR05MB7170eurp_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: icmpmusic.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: AM8PR05MB7170.eurprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 8d5f053a-d5db-4c0e-09d4-08da8a586b31
+X-MS-Exchange-CrossTenant-originalarrivaltime: 30 Aug 2022 07:22:38.6165
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 28a4cc59-64d7-4629-87bf-20744de61c93
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: pAul8z8hGLzQnKtmPtOANXaoOdYUKelncB9bbSkE0Pfre3UAhghL6wvj7Thw0TQQ5th4B3vGgji3ujdVpKJVYFpVn/fez5lvHVSMv4ofrQVuXZ61GirDjjKFJ7v/0wbH
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VI1PR05MB6301
+Content-Length: 2162
+
+--_000_AM8PR05MB71709920649F41706C2CD84FB5799AM8PR05MB7170eurp_
+Content-Type: multipart/alternative;
+	boundary="_002_AM8PR05MB71709920649F41706C2CD84FB5799AM8PR05MB7170eurp_"
+
+--_002_AM8PR05MB71709920649F41706C2CD84FB5799AM8PR05MB7170eurp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Jenny McLeod-Aggrey | ICMP
+   Subject: Fwd: on xmas - did you save 15% by switching your holding from =
+STFGX to BRK-B prior to December 22nd 2021?
+   Sent: Tuesday, August 30, 2022 4:38:50 AM (UTC+01:00) Brussels, Copenhag=
+en, Madrid, Paris
+
+ was read on Tuesday, August 30, 2022 9:22:29 AM (UTC+01:00) Brussels, Cope=
+nhagen, Madrid, Paris.
+
+--_002_AM8PR05MB71709920649F41706C2CD84FB5799AM8PR05MB7170eurp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Jenny McLeod-Aggrey | ICMP<br>
+&nbsp;&nbsp; Subject: Fwd: on xmas - did you save 15% by switching your hol=
+ding from STFGX to BRK-B prior to December 22nd 2021?<br>
+&nbsp;&nbsp; Sent: Tuesday, August 30, 2022 4:38:50 AM (UTC+01:00) Brussels=
+, Copenhagen, Madrid, Paris<br>
+<br>
+&nbsp;was read on Tuesday, August 30, 2022 9:22:29 AM (UTC+01:00) Brussels,=
+ Copenhagen, Madrid, Paris.</div>
+</span></font>
+</body>
+</html>
+
+--_002_AM8PR05MB71709920649F41706C2CD84FB5799AM8PR05MB7170eurp_--
+
+--_000_AM8PR05MB71709920649F41706C2CD84FB5799AM8PR05MB7170eurp_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; jenny.mcleod-aggrey@icmpmusic.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: yXRITAJ7h0WFGJxU5yy9NQ==
+X-Display-Name: Jenny McLeod-Aggrey | ICMP
+
+
+--_000_AM8PR05MB71709920649F41706C2CD84FB5799AM8PR05MB7170eurp_--

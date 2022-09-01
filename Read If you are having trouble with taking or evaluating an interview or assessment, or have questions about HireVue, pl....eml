@@ -1,0 +1,220 @@
+From - Thu Sep  1 06:52:40 2022
+X-Account-Key: account1
+X-UIDL: ALIZaMlV60MWYxCbjQhU0HEBYD4
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.196.216.85
+ by atlas105.free.mail.bf1.yahoo.com with HTTPS; Thu, 1 Sep 2022 11:46:21 +0000
+Return-Path: <isaacba.davies@dc.gov>
+X-Originating-Ip: [40.107.89.73]
+Received-SPF: pass (domain of dc.gov designates 40.107.89.73 as permitted sender)
+Authentication-Results: atlas105.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@dc.gov header.s=selector2;
+ spf=pass smtp.mailfrom=dc.gov;
+ dmarc=pass(p=NONE) header.from=dc.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 1 Sep 2022 11:46:21 +0000
+X-YMailAVSC: 0PG2C3w3bBuBnkWzR6ILRRUZvIoUMAR9q0kVT46vDpuacba
+ AlAwqET308_T1Pak.SSNl5ybK8MuFTJviChuWZd1Iyi0zyR.B76YUKo9tH9b
+ W56IU6vDd0vEO531l3O9bhZVNicR9qCfsBtafrJM.ivM6YW7XD0oTF3T6SSH
+ 7z9mKTmTsNg4VQQKI9pezj7IbfqdoHfx4CMPpyhWq9wtryMWv4tl6O8WJ1Ue
+ AyQRqZKDLmAgdQ8QuXT94MZCBsW4nqPh4e00mVHrU5uARwc8IYFdqOY7aua0
+ EOhSo1_Iik5d24ej3vxP39QCRbCytY4.Ww3qXlQAmsTTgLfHDNQiomlJ.tv9
+ H_O9VRTeHptiWDBnDbDGqvSA7FCPTQuhZAMQ77KAOuu.67pS_5izAP58SZ.n
+ tRypY.bD2tvPJUJEBnhaYImbQv46urH0az0kFfltTPy7nndTANj1jGTL60V8
+ 5Tl5qJVD9B7eLD5MkSthX_2PG2sQfHDDhe1sot4t72KPl5Da3LKH6yT.pkpq
+ OK.8ZvQP5Zqx_aJukpfqDhSW5g.9RGERl8tQVlcuDR7_.nNmK_Jc51nW1GXS
+ RqOjtZSv6fm6IyxUTln7QmsIX9a_jOdUB7PZgYXCci95zNHJjg4J7BlHVpsr
+ Jk65cnN6uilkYKdkZf3oW.kqLqPSa0upUu4lbHoibwQtGOtzoj96o8OlYAt8
+ FrcHodoz34LhFgeWSN_IIakElkls741bJPNOyUqw9_bXeiz.fYBj7XCQClrj
+ vHTm0SQy5BWT4CuVuuJoHiN5Mqpc84e0n0n1Dcbv6q7wokbjULvPyBzcYFoX
+ skWFXZp6_LGd0jZo9a6cELN9cKMufd0NuAp7sEINBnnbU88L4qES4NirLdnA
+ 8C6uDNKxx.OPaFK.WLSg_1eOu6nH4gFRYiBFa0UOhTQ7z.ohpzhbA56VJ.Co
+ 41fZhGqFggfIbWNTkUs6y0VhnAABYI96C9pJPrz8J7iBJZN8xQicVmk3W6gz
+ SZrFMRyrtr0.z0ft2TCuga7tRyrNkjf3GjTZLvVaY1Idaog9RHjNSAVBu7fO
+ rxX3mqHOStj5LG52_zGPH2RAWrZogUcMEeExtASEG50tbUUxyOyxqHEDWPbi
+ oFznFH7ggPceLvRKfvMnCQcYlmmq8Zh0yp0rJeBZtMjBK..lrNgDW7XLycH4
+ 183t0Nr0Z
+X-YMailISG: wIRopa0WLDvVRFJWmS.ezAsJCVsd3VgBso9ubGAiExZpOzeS
+ WGvmC3_TZ8H4lqAeCq3sZS9uFnzkWsviqaTJqJkS9bTZSx3oWjpzB6nhqoBf
+ llGbrUEnBAOGFp0a1MsexLtNQFl3JdJaLyN3CnUYTu6XvFqONmXlhHAMksPp
+ 4zbb3cfa0D53G0UXKn4NmEUgsNqBUGSsqYoReUCGAYdKnHlqJz0vwCCLAT2i
+ l9ugkkdDyDEIuU8Ad21wP2JkumruRwRMPPYq1at_V9NxZsXcPohmE0h5Bppd
+ YQ6Xh2MT1svi8HqU7i_7rIkUVaAe31znwOlFzayBupSRNLleaC.okx4hIohw
+ JfOrJQEeWhZ_ff1zLC.f7WZc43G18r8XxfcYo1If5lwDhpgwemV2m25Q9hME
+ L.As6ZJKGLSMSMPH1VM3x4GPIg6.PucWAnR4pyeP7b8.CTtB861Tu7.ppGRP
+ uVLqgWrA91K.k6rBklfb2t3LkBrZVC4qCY5wZwl6.otM84FalefgnmEJT3yi
+ fBSv5i7..lSFx2Q._ZmG3bjJbgh61tq3tLYFRCFnR0XLhbCdaXTpbRq4bsDo
+ 9zw4PmbM.d_WtKKzUxNmwijby4AGPCXZEt88LF7qrU4DUp7850wi_k7.jL61
+ m2bvT.t7hpBveYhx3FFtbqBOPbjtppJZzg8QXWqSmiq3Ku0PRqi8X3JlMpch
+ 0pZDM7XbQGD75DHgXe3BSaYulcN9jEmhRa45cE84s5vP8dmn7syoW6.v_USk
+ an8Pz6eT6XcEYbqnXCdH.OK9_F931c3FpusgH120dsoeGj57Oosm5brje3Lv
+ gZf83iAYP1AadSxTWtbPfD3PlMlNOCGoohVN9wDmNK2xLQP2eg7MGD.bstXR
+ Hdla7AaNZYN.wVIAacPHyRrr4vaLbFA6GFeWrmurB6.ZQqBtgbBoeNlTlL8y
+ r7l8.65iZKV75SOSNquI60nLzZ9r9qJMdy_.FMhmsj70FGWYyzjK8a4Jf.q0
+ 1vYT3WfjlxtFxMvK1UgXklvF.vTx4e3COoITboAq30Hy1Jte37JZfRIg8v_u
+ 4SKVP1WFhh9cTrK9Lx2v4MqJgOLlK5mwr.wUfZl7lQjf4AyiQiDb.t67AEIu
+ o2fawzUu5ssFi3qMNcaFBbu0mk.PdjpSt5omRR90lVgBp6YynGqWKEEnKnl3
+ qjX5S87CmuSKju7kMXVXLBVdt6_MEnBL.7C.n_Sr7VM29K5SID4ZrLzdtTaa
+ dtsvWWkGIGYaCw75nYWY9Q01oJdj8ZTMVPPszmCDt537q7Lm97AuQm1K8odz
+ gYYVpIz5v3njgxPmDzUe1WBz3Mh2c5Pi
+Received: from 40.107.89.73 (EHLO GCC02-BL0-obe.outbound.protection.outlook.com)
+ by 10.196.216.85 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 01 Sep 2022 11:46:21 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=PZ31+1kWjJJAA1thCt+bR4r2CJmANezHlZfTpnZxri8ibr41jDfH7DmdaDGEqvBLuV59YWcCIeNjVKLlHy26Wsk1cMK9ShP4plqSVr/NgkEnr5dh0RScdN2xc9US0VsUMMl964V29fBsUi57d9Gd3CqWgYVLE62zeOWcnLCBdqZ2LqzF1CnNnHG+d1908wVMyaZCUaJeSrqlSxwJuVRrf+j0c8hie/ltIeGlERWZISbTpauBhiTCwOJZW+T606dztMcxrF0kXDudR9T8l9h9GalpyXyFvM1wZu4AoU9918Eu1RwHqoIQQCrgmdN4BBZlQjPq/VXVIso7kjvkv9SCZg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=As7kMiVE4QSQ1smyCZDKcqJ3wfbBqTjnoEuwNJZZvkc=;
+ b=GU6GJz9g/62mmWR4ZOT+CSGcWfHYTcAwptKlpRi9EzRyGHC22ie6VYhqBQzOQuXV+3kiEOAQ3+S1axfIYnnbmOuUX5qQi7f76f/eF27majxr/2q6PZF7tZVjOnXUOCXH0rp+UnZZhmsqFrLcPTWyrYe6/PYHR5q5oWoI+Umv47+A5dkwyQG1Rf8QZ1G01IsRMEPeYBHGah8dT8d5leAl/mCmD3VWDyLBd/51uOqOlLt8OzSiYWNMqrT90g1g0YdiOGBDWdd6Y+nbzuvqEqeFZIeMdK47+4HohEJoF8esTXakw9sFees1690YkJTBElpProlrM29beHyZegOAF+NrPA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=dc.gov; dmarc=pass action=none header.from=dc.gov; dkim=pass
+ header.d=dc.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dc.gov; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=As7kMiVE4QSQ1smyCZDKcqJ3wfbBqTjnoEuwNJZZvkc=;
+ b=LtC9gVu4ccI56X05XYyKKr9wB9fDaQr1OwQSFxN1RSAZxSR2NxRL6X5DdDpLuB3N8x7qDxP2HHbiswfW7/RgK5sciC/jkudQ04KqqT0pQuxzTHvhWpcHT/2wWTxoVajEEWC9EyhDTh92RNZwrJ+0RivAmzDlFtW7WKPVo7evHtbaCeFsN1mWjif5GD/zE5W2ovkxYlCxvFhO2+40KBnORUQ2aaAbegKL+LKBKcgodUNphCiJwmxjO4Js81cZ6vHMeGO3yHsQ9j4/U3Lpsi83WIFyJ1RdHHH5P9KRMfJ4cr5fJMIWDwl5QXgDOdV4Q8fA6Xk0bqPFk7VGEIKaKFWXlQ==
+Received: from SA9PR09MB4864.namprd09.prod.outlook.com (2603:10b6:806:40::7)
+ by SA0PR09MB6714.namprd09.prod.outlook.com (2603:10b6:806:77::23) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.11; Thu, 1 Sep
+ 2022 11:46:20 +0000
+Received: from SA9PR09MB4864.namprd09.prod.outlook.com
+ ([fe80::c478:2c3b:7eb6:ad28]) by SA9PR09MB4864.namprd09.prod.outlook.com
+ ([fe80::c478:2c3b:7eb6:ad28%3]) with mapi id 15.20.5588.010; Thu, 1 Sep 2022
+ 11:46:20 +0000
+From: "Davies, Isaacba (DOC)" <isaacba.davies@dc.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: If you are having trouble with taking or evaluating an
+ interview or assessment, or have questions about HireVue, please send your
+ email to support@hirevue.com. Support is available to you 24 hours a day, 7
+ days a week.
+Thread-Topic: If you are having trouble with taking or evaluating an interview
+ or assessment, or have questions about HireVue, please send your email to
+ support@hirevue.com. Support is available to you 24 hours a day, 7 days a
+ week.
+Thread-Index: AQHYvZjolMLFrweL7UK9h/U1CrYwOg==
+Date: Thu, 1 Sep 2022 11:46:20 +0000
+Message-ID: <3d7e90e7969f4574a5d503907b89b9a1@dc.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: f6b682e8-1371-450c-77b3-08da8c0f967b
+x-ms-traffictypediagnostic: SA0PR09MB6714:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ hwJt/NGwxGOU1z6anmXC5KaE2C1c05iL6YSzivClt/mFi0yFMm7oEn/QVXJkMpcB79tDB//E6t70yapA2Rdn0O4HwRiLlJRw2lgyQWs2YxUhgKyx7IOcL4AqonrJKUXR+Q70LGf0gCOthJbWAA58CAY2VKFrPP7ykEQlTKtKrRdlhbPxjMIgLkbcn9TvAuh8uXM0UzVfAK96uOS2hgfggMQsG+bGbUEJYxvPOracVQ/bYuR9c8RL2dWO27oNeKU+bscBKAvSvpoVc7gNEmaPB551uTRd0T+ipr1gLtFXR5dFaVsCF2jVl2sPGfW3E9Cxb+omsbDqwdUsd5GVikq6VtXw2Pr7dM/24hNY/Hb8FqSFg+L+xos8bT7o4o9lPv0t1scXcn9FGSOOAfZi7KSJxlOiijpGS34Yea8v6Nnl5oxR/TkO7t0JFZCzyRaVNiFdwCAofPR7lkBqgM/YKcYZIA==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA9PR09MB4864.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(2616005)(86362001)(186003)(73894004)(621065003)(8936002)(4270600006)(6506007)(108616005)(24736004)(2906002)(6512007)(122000001)(498600001)(36756003)(66946007)(6916009)(6486002)(88996005)(66556008)(66476007)(8676002)(66446008)(64756008)(71200400001);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?HAPLbFfnuIx3skMta8HF8530pbZGNX+8hPwideNJbllXBlKVUGfMnaNs22yo?=
+ =?us-ascii?Q?blyzisqDuernxjoagW4eaLwEEKQoGHvUsQMY1aKFofIetag5ASb8bzVHGwG1?=
+ =?us-ascii?Q?yHfUvHXIeG1w7fH7FEYrI8EYhPdupwnISgnqY+FygQ6enJtSkluGQC+py9u7?=
+ =?us-ascii?Q?eJSeD8nhlFDren3rnJsjxP6LmJOFnKkaHqE8P4p84HN5R2Gr6IGjpXc6BxA+?=
+ =?us-ascii?Q?z95LmkFmrr4c66nOvytvB09KmaGEtQ9BFU6Bsm56IAdE0mHYwYMFOv3IzE5P?=
+ =?us-ascii?Q?FrgIMAGVC1BN/ycNuk3pC8oFLOxTEhNI961RWlLMFcrv3HtuIXH5eqsRPISX?=
+ =?us-ascii?Q?BJkv3UloRemXlZBA/6EzDgStiuXRjSn4jpmCRK4bNupNw25LLyQN7xDnm+Fb?=
+ =?us-ascii?Q?6f8QAS9HX4ZsQt4SP36b8/7B3Lwmx34TdGMnk7k/raRh8fON7yU7MTFLIYs5?=
+ =?us-ascii?Q?kL3mCmk9tZjj/EfXskBMMBJVQ5M4XQAXVLEE97XUIue36h/3OeW7a4zQFxfp?=
+ =?us-ascii?Q?2JsJ3H84RjVKf8PXTIAjcIcOhNUiGW58jz+OHzRY+7RvN4NHmdPwvbBMJ3iX?=
+ =?us-ascii?Q?zc8DnEhBKqxVT+RPLZedmx5aZDG3Sqa24JzxmhtBJEpOedgKgV1jt0XnRVy+?=
+ =?us-ascii?Q?yZPahbgsDtSsgx25UlJrdPnuBQfWNugEJtjJtKosTDJnOSibwUqrbeomyMiM?=
+ =?us-ascii?Q?imb0VHu1eldTJVy4RwZcWfLXc6ofepMCLYJhd7WyRY9Y61F2Elbo3EXSM7DS?=
+ =?us-ascii?Q?cv3xOks0aN0XZYN9r6UZxM8EfHc6ohYSU1s33ygvyb/iWZWwvSypBJ9lCufE?=
+ =?us-ascii?Q?Ei3221Wx2IFQ0vCXk33zJRQSP/tYMkzpCaYzcB6t77Yz6isjKqFWAe88oIp9?=
+ =?us-ascii?Q?eDu0MmPJRxszI+TUxaEXUs7E5LDxfk1kziDwKkUbuZwJt1ClYR4l4MykARZE?=
+ =?us-ascii?Q?wsLXj/tJnSm1z9Q51co9JbDA3mKorLw0GZWipHRyBh3AfmIFh5igbKlHtMhQ?=
+ =?us-ascii?Q?pmKlIVLwYU8luKfpgg0Oh+Zgv67BhF2JEHbeUjciMx+KttozK4yAPoAXMXWL?=
+ =?us-ascii?Q?u4jzzD/oHt1MsQ9XQzKF55oRIfmRYALQ3hF/Pwnfjgwj+3Jao/m1v0yBkLOi?=
+ =?us-ascii?Q?5cmLCi7BLUUe6pbHIVz/txHz+z2162ytW86Kk6Ywr9EtgPfV8Jse0aHePKah?=
+ =?us-ascii?Q?ZGlVGvg60ooXIUXcusTDDJYGtB45AKToLiobUmi23XwC3iSS/J3iazuLGu2z?=
+ =?us-ascii?Q?k+Sm+tmQAZBFysg5N25g7egvmbjWij2nXdcRJPpcy8HnTXV2PBGwkyuFQQOM?=
+ =?us-ascii?Q?Xd1qiLPMU1eQrsgjAbSz68iQx5YQnLZOZDqDAbUl5krhGY5ABwcDe+VN+OxP?=
+ =?us-ascii?Q?h/7g0d2xfDK68kUBS8IhzK2cPTuQFpMmgeVhBcnbXupH2HG13kabNouWU6Rw?=
+ =?us-ascii?Q?9XHq7Fcf26IqfCOt2rz3TtPUM0uMOdRUJYAYOiXhMDLipLfcemBoPA=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_3d7e90e7969f4574a5d503907b89b9a1dcgov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA9PR09MB4864.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: f6b682e8-1371-450c-77b3-08da8c0f967b
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Sep 2022 11:46:20.3262
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA0PR09MB6714
+Content-Length: 2293
+
+--_000_3d7e90e7969f4574a5d503907b89b9a1dcgov_
+Content-Type: multipart/alternative;
+	boundary="_002_3d7e90e7969f4574a5d503907b89b9a1dcgov_"
+
+--_002_3d7e90e7969f4574a5d503907b89b9a1dcgov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Davies, Isaacba (DOC)
+   Subject: If you are having trouble with taking or evaluating an intervie=
+w or assessment, or have questions about HireVue, please send your email to=
+ support@hirevue.com. Support is available to you 24 hours a day, 7 days a =
+week.
+   Sent: Wednesday, August 31, 2022 8:21:39 PM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Thursday, September 1, 2022 7:46:20 AM (UTC-05:00) Eastern Tim=
+e (US & Canada).
+
+--_002_3d7e90e7969f4574a5d503907b89b9a1dcgov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Davies, Isaacba (DOC)<br>
+&nbsp;&nbsp; Subject: If you are having trouble with taking or evaluating a=
+n interview or assessment, or have questions about HireVue, please send you=
+r email to support@hirevue.com. Support is available to you 24 hours a day,=
+ 7 days a week.<br>
+&nbsp;&nbsp; Sent: Wednesday, August 31, 2022 8:21:39 PM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, September 1, 2022 7:46:20 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_3d7e90e7969f4574a5d503907b89b9a1dcgov_--
+
+--_000_3d7e90e7969f4574a5d503907b89b9a1dcgov_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; isaacba.davies@dc.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 7pTStTwjVUC2CIuUvOKMkg==
+Original-Message-ID: <ae529e8a-c23e-f755-7d67-ff87b4a1832b@yahoo.com>
+X-Display-Name: Davies, Isaacba (DOC)
+
+
+--_000_3d7e90e7969f4574a5d503907b89b9a1dcgov_--
